@@ -1,0 +1,23 @@
+.text{
+    color: red;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+form {
+    display: flex; 
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+    }
+    
+input {
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: rgb(8, 24, 168);
+    color: black;
+}
